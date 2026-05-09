@@ -1,0 +1,21 @@
+# Fusion 360 native binary — not version-controllable
+impeller.f3d
+
+# Generated output — reproducible by running fea_validation.py
+fea_report.txt
+
+# LinkedIn post — not for public repo
+linkedin_post.txt
+
+# Fusion AppData script copy — duplicate of root-level script
+fea_validation/
+
+# Claude Code session settings — private
+.claude/
+
+# Video exports
+*.avi
+*.mp4
+
+# Animation frame exports — generated, large binary files
+animation_frames/

@@ -1,0 +1,10 @@
+{
+    "autodeskProduct": "Fusion360",
+    "type": "Script",
+    "engine": "Python",
+    "appVersion": "2.0.16000",
+    "supportedOS": "windows|mac",
+    "author": "",
+    "description": "Path B FEA validation: Modal Frequencies + Static Stress for optimised pump impeller",
+    "helpUrl": ""
+}
